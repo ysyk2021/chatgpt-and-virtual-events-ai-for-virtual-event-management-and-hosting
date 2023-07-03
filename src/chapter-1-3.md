@@ -3,11 +3,6 @@ The Role of ChatGPT in Virtual Event Management and Hosting
 
 As virtual events continue to grow in popularity, the need for effective event management and hosting becomes increasingly important. ChatGPT, an AI-powered chatbot, can play a crucial role in the success of virtual events by providing real-time assistance and engagement opportunities for attendees.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an AI-powered chatbot that uses natural language processing to communicate with users in a conversational manner. It is designed to understand and respond to user inquiries, provide personalized recommendations, and assist with event-related tasks, such as registration and scheduling.
-
 The Benefits of Using ChatGPT in Virtual Event Management and Hosting
 ---------------------------------------------------------------------
 
