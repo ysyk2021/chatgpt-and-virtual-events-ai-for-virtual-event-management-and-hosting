@@ -1,4 +1,3 @@
-# Introduction
 
 Virtual events have become increasingly popular over the past few years, and their importance has only grown in recent times due to the COVID-19 pandemic. As a result, more and more businesses are turning to virtual events as a way to connect with their audience and stay relevant in an ever-changing landscape.
 

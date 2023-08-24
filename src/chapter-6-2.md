@@ -1,5 +1,3 @@
-Best Practices for Using ChatGPT in Virtual Event Management and Hosting
-===========================================================================================================================
 
 In this chapter, we will explore best practices for using ChatGPT in virtual event management and hosting. By following these best practices, event organizers can effectively leverage ChatGPT to create engaging and successful virtual events.
 

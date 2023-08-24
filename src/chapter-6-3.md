@@ -1,5 +1,3 @@
-Case Studies of Companies That Have Successfully Implemented ChatGPT in Their Virtual Events
-===============================================================================================================================================
 
 In this chapter, we will explore case studies of companies that have successfully implemented ChatGPT in their virtual events. These case studies demonstrate the effectiveness and versatility of ChatGPT in enhancing virtual event management and hosting.
 

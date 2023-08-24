@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 ChatGPT is an AI-powered language model that has the potential to revolutionize virtual event management and hosting. In this chapter, we will explore what ChatGPT is, its features and capabilities, and how it can be used for virtual event management and hosting.
 

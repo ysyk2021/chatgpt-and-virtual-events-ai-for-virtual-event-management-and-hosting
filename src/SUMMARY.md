@@ -27,6 +27,5 @@
 - [Chapter 6: Future of Virtual Event Management with ChatGPT](chapter-7.md)
   - [Potential advancements in virtual event management with ChatGPT](chapter-7-1.md)
   - [Impact of ChatGPT on the virtual events industry](chapter-7-2.md)
-  - [Conclusion and future outlook](chapter-7-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

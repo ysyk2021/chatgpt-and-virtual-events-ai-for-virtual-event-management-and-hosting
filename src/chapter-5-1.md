@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 In this chapter, we will explore what ChatGPT is and how it can be used in virtual event management and hosting.
 

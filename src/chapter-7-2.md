@@ -1,5 +1,3 @@
-Impact of ChatGPT on the Virtual Events Industry
-============================================================================================================
 
 In this chapter, we will explore the potential impact of ChatGPT on the virtual events industry. As technology continues to evolve, AI-powered chatbots like ChatGPT could become an increasingly integral part of virtual event management and hosting.
 

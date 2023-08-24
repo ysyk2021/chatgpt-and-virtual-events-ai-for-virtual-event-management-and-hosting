@@ -1,5 +1,3 @@
-Impact of These Challenges on Event Success
-==============================================================================================
 
 Virtual event management presents unique challenges that can impact the success of an event. In this chapter, we will explore some of these challenges and their potential impact on event success.
 

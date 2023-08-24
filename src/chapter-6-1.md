@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Virtual Event Management and Hosting
-=====================================================================================================================
 
 In this chapter, we will explore the steps to implement ChatGPT in virtual event management and hosting. By following these steps, event organizers can effectively integrate ChatGPT into their virtual events to provide real-time assistance and engagement opportunities for attendees.
 

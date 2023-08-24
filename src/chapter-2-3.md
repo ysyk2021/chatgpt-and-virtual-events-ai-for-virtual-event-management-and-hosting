@@ -1,5 +1,3 @@
-Importance of Virtual Events in Modern Times
-=================================================================================
 
 Virtual events have become increasingly popular in recent years, especially in the wake of the COVID-19 pandemic. In this chapter, we will explore the basics of virtual events, including their definition, importance, and benefits.
 

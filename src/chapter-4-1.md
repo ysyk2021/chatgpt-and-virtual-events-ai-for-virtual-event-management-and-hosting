@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-===================================================================================================
 
 As virtual events become more prevalent, the role of artificial intelligence (AI) and chatbots in virtual event management is becoming increasingly important. In this chapter, we will provide an introduction to AI and chatbots and their potential applications in virtual event management.
 

@@ -1,5 +1,3 @@
-Types of Virtual Events
-============================================================
 
 Virtual events have become increasingly popular in recent years, especially with the rise of remote work and digital communication. In this chapter, we will explore the types of virtual events.
 

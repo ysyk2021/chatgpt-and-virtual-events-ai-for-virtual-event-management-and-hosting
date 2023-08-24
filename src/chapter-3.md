@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Virtual Event Management
-=================================================
 
 Virtual event management presents unique challenges that require specific considerations to ensure success. In this chapter, we will explore the factors affecting virtual event management, some of the common challenges faced by event organizers, and how these challenges can impact the success of an event.
 

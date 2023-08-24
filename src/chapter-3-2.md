@@ -1,5 +1,3 @@
-Common Challenges in Virtual Event Management
-================================================================================================
 
 Virtual event management presents unique challenges that can impact the success of an event. In this chapter, we will explore some of the common challenges faced by event organizers in virtual event management.
 

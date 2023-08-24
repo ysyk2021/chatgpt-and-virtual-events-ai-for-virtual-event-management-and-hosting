@@ -1,5 +1,3 @@
-Chapter 6: Future of Virtual Event Management with ChatGPT
-==========================================================
 
 In this chapter, we will explore the future of virtual event management with ChatGPT. As technology continues to evolve, AI-powered chatbots like ChatGPT are expected to become even more integral to virtual event management and hosting.
 

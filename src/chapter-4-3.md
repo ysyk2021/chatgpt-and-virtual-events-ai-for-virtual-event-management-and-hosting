@@ -1,5 +1,3 @@
-Benefits of Using AI and Chatbots for Virtual Event Hosting
-===============================================================================================================================
 
 AI and chatbots can provide numerous benefits to virtual event hosting, including improving attendee experience, increasing efficiency, and reducing costs. In this chapter, we will explore some of the key benefits of using AI and chatbots in virtual event hosting.
 

@@ -1,5 +1,3 @@
-How AI and Chatbots can Improve Virtual Event Management
-============================================================================================================================
 
 As virtual events become increasingly popular, the role of artificial intelligence (AI) and chatbots in virtual event management is becoming more important. In this chapter, we will explore how AI and chatbots can improve virtual event management.
 
