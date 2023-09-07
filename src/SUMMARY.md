@@ -29,3 +29,4 @@
   - [Impact of ChatGPT on the virtual events industry](chapter-7-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
