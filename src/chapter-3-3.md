@@ -1,5 +1,4 @@
-Chapter: Impact of These Challenges on Event Success
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the impact that challenges in virtual event management and hosting can have on the overall success of an event. While virtual events offer numerous benefits, they also present unique challenges that organizers must address to ensure a successful outcome.
 

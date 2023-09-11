@@ -1,5 +1,4 @@
-Chapter: Importance of Virtual Events in Modern Times
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the significance and importance of virtual events in modern times. Virtual events have become increasingly crucial in today's interconnected world and are transforming the way people connect, learn, collaborate, and conduct business.
 

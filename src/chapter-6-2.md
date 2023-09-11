@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Virtual Event Management and Hosting
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the best practices for utilizing ChatGPT, an AI language model, in virtual event management and hosting. These practices aim to optimize the use of ChatGPT, enhance attendee experience, and streamline event operations. By following these guidelines, event organizers can leverage the power of AI to create engaging and successful virtual events.
 

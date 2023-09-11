@@ -1,5 +1,4 @@
-Chapter: Common Challenges in Virtual Event Management
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the common challenges that organizers face in virtual event management. While virtual events offer unique opportunities, they come with their own set of obstacles that need to be overcome for successful execution.
 

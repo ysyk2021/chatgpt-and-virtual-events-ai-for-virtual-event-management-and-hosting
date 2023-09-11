@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore what ChatGPT is and how it has transformed virtual event management and hosting. ChatGPT is an AI language model developed by OpenAI that uses deep learning techniques to generate human-like text responses.
 

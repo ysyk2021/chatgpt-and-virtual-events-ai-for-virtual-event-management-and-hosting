@@ -1,5 +1,4 @@
-Chapter: Case Studies of Companies Successfully Implementing ChatGPT in Virtual Events
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies of companies that have successfully implemented ChatGPT, an AI language model, in their virtual events. These examples showcase how organizations leveraged ChatGPT to enhance attendee experiences, streamline event management processes, and achieve successful outcomes in the virtual event landscape.
 

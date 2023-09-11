@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT in Virtual Event Management and Hosting
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the key steps involved in implementing ChatGPT, an AI language model, in virtual event management and hosting. These steps provide a roadmap for event organizers to effectively incorporate ChatGPT into their virtual events, enhancing attendee experiences and streamlining event operations.
 

@@ -1,5 +1,4 @@
-Chapter: Impact of ChatGPT on the Virtual Events Industry
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significant impact that ChatGPT has had on the virtual events industry. The integration of ChatGPT into virtual event management and hosting processes has revolutionized the way events are organized, managed, and experienced.
 

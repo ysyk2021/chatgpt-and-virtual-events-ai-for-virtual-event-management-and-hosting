@@ -1,5 +1,4 @@
-Chapter: Introduction to AI and Chatbots
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to AI (Artificial Intelligence) and chatbots, highlighting their significance in the context of virtual event management and hosting. Understanding the fundamental concepts of AI and chatbots is essential for grasping their potential and effectively utilizing them in the virtual event landscape.
 

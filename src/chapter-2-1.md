@@ -1,5 +1,4 @@
-Chapter: Definition of Virtual Events
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide a comprehensive definition of virtual events. Virtual events, also known as online events or digital events, refer to gatherings that take place in a virtual or online environment rather than a physical location. These events leverage digital platforms and technologies to replicate the experience of attending an in-person event remotely.
 

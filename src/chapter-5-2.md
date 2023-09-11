@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the features and capabilities of ChatGPT, highlighting its key functionalities that make it a valuable tool for virtual event management and hosting.
 

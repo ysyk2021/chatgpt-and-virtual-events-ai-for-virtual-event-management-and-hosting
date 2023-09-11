@@ -1,5 +1,4 @@
-Chapter: Types of Virtual Events
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various types of virtual events. Virtual events encompass a wide range of formats and purposes, each catering to different objectives and audience preferences. Understanding these different types can help event organizers choose the most suitable format for their specific needs.
 

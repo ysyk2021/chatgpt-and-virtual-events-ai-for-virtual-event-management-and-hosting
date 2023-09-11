@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in Virtual Event Management with ChatGPT
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential advancements that can be achieved in virtual event management with the integration of ChatGPT. As an AI language model, ChatGPT holds significant promise for enhancing the capabilities and experiences of both organizers and attendees in virtual events.
 

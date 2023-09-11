@@ -1,5 +1,4 @@
-Chapter: Factors Affecting Virtual Event Management
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various factors that can influence virtual event management. Understanding these factors is crucial for organizers to plan and execute successful virtual events.
 

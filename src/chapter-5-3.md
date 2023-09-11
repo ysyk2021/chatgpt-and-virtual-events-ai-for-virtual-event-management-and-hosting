@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can Be Used for Virtual Event Management and Hosting
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various ways in which ChatGPT can be utilized for virtual event management and hosting. ChatGPT, as a powerful AI language model, offers several capabilities that can significantly enhance the experience of both organizers and attendees during virtual events.
 

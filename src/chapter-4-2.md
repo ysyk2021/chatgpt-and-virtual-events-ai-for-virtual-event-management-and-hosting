@@ -1,5 +1,4 @@
-Chapter: How AI and Chatbots Can Improve Virtual Event Management
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI (Artificial Intelligence) and chatbots can significantly improve virtual event management. These technologies offer a range of powerful capabilities that streamline operations, enhance attendee experiences, and optimize event outcomes.
 
